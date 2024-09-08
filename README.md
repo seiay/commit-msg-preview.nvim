@@ -1,8 +1,12 @@
-# committia.nvim
-## More Pleasant Editing on Commit Message
+# More Pleasant Editing on Commit Message
 
 ## Before commit
+
 Use `pre-commit`. Follow the [official Quick start][1].
+
+```bash
+pre-commit install -t pre-commit -t commit-msg
+```
 
 Use [Conventional Commits][2].
 

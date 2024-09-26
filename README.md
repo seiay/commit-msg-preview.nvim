@@ -1,4 +1,4 @@
-# More Pleasant Editing on Commit Message
+# commit-msg-preview.nvim
 
 ## Before commit
 

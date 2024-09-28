@@ -1,4 +1,4 @@
--- luacheck: global vim
+-- luacheck: globals vim
 local test = {}
 
 function test.init()

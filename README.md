@@ -17,13 +17,10 @@ Use [Conventional Commits][2].
 
 Install the plugin with your package manager of choice.
 
+* lazy.nvim
+
 ```lua
 {
   "commitmsgpreview", dir = "~/commit-msg-preview.nvim/",
 },
 ```
-<<<<<<< HEAD
-=======
-
-## Usage
->>>>>>> feat: add function to output hello world message

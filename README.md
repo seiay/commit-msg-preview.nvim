@@ -24,3 +24,13 @@ Install the plugin with your package manager of choice.
   "commitmsgpreview", dir = "~/commit-msg-preview.nvim/",
 },
 ```
+
+## Test
+
+Run tests in terminal:
+
+```bash
+cd commit-msg-preview.nvim
+nvim --headless -c "PlenaryBustedDirectory lua/tests"
+
+```
